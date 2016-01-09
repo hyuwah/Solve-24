@@ -1,6 +1,6 @@
 import sys
 from PyQt4 import QtGui
-from window_solve import Ui_Dialog
+from window_solve24 import Ui_Dialog
 
 
 class MyForm(QtGui.QMainWindow):
